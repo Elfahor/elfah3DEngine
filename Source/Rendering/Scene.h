@@ -8,7 +8,6 @@
 
 class Object3D;
 class Mesh;
-class Camera;
 
 class Scene
 {
